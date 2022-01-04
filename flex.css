@@ -1,0 +1,46 @@
+.header{
+ width: 1876px   ;
+ height: 1000px;
+}
+
+.background-header{
+    background-color: coral;
+}
+
+.h1{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.name{
+    width: 1500px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.kev{
+    width: 1000px;
+    height: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.A14{
+width: 1500px;
+height: 50px;
+display: flex;
+flex-direction: row-reverse;
+justify-content: center;
+}
+
+.facebook{
+    width: 1150px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
